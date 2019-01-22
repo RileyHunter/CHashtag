@@ -11,6 +11,8 @@ namespace CHashtag
     // Un-comment the lines in Main to make sure it works.
 
     // Bonus points:
+    // Try and instantiate a Person. It doesn't work. Why? Don't fix this, it's deliberate.
+
     // Implement a new class Master extending Person (the same way Student does) and
     // have it set the mood in the constructor to "Contemplative", and their Dollaz to -1.
 
